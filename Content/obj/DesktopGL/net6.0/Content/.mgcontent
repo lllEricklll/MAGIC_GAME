@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/erick/Downloads/Games/Magic/Content/firstRuteBackGround.mp3</File>
+    <File>C:/Users/erick/Downloads/Games/Magic/Content/firstRuteForest.png</File>
+    <File>C:/Users/erick/Downloads/Games/Magic/Content/Font.spritefont</File>
+    <File>C:/Users/erick/Downloads/Games/Magic/Content/start.png</File>
+    <File>C:/Users/erick/Downloads/Games/Magic/Content/startMusic.mp3</File>
+    <File>C:/Users/erick/Downloads/Games/Magic/Content/startSoundMenu.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

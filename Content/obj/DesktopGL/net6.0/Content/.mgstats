@@ -1,0 +1,7 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/erick/Downloads/Games/Magic/Content/firstRuteBackGround.mp3","C:/Users/erick/Downloads/Games/Magic/Content/bin/DesktopGL/Content/firstRuteBackGround.xnb","SongProcessor","SongContent",1068022,137,1.2799189
+"C:/Users/erick/Downloads/Games/Magic/Content/firstRuteForest.png","C:/Users/erick/Downloads/Games/Magic/Content/bin/DesktopGL/Content/firstRuteForest.xnb","TextureProcessor","Texture2DContent",622140,1625173,0.1203341
+"C:/Users/erick/Downloads/Games/Magic/Content/Font.spritefont","C:/Users/erick/Downloads/Games/Magic/Content/bin/DesktopGL/Content/Font.xnb","FontDescriptionProcessor","SpriteFontContent",2068,43852,0.1828486
+"C:/Users/erick/Downloads/Games/Magic/Content/start.png","C:/Users/erick/Downloads/Games/Magic/Content/bin/DesktopGL/Content/start.xnb","TextureProcessor","Texture2DContent",91544,167085,0.0074876
+"C:/Users/erick/Downloads/Games/Magic/Content/startMusic.mp3","C:/Users/erick/Downloads/Games/Magic/Content/bin/DesktopGL/Content/startMusic.xnb","SongProcessor","SongContent",2670478,128,2.6406775
+"C:/Users/erick/Downloads/Games/Magic/Content/startSoundMenu.wav","C:/Users/erick/Downloads/Games/Magic/Content/bin/DesktopGL/Content/startSoundMenu.xnb","SoundEffectProcessor","SoundEffectContent",303182,303209,0.211164
